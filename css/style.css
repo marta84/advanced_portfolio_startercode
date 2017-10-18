@@ -1,6 +1,9 @@
 /* Nav Bar CSS */
 
-
+#bernal{
+    Width:500px;
+    height:300px;
+}
 /* Header CSS */
 
 
@@ -10,7 +13,10 @@
 
 
 /* About Section CSS */
-
+#about{
+    border:solid;
+    background-color: #c0c0c0;
+}
 
 
 /* Portfolio Item CSS */
