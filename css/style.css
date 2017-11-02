@@ -26,7 +26,10 @@
 
 
 /* Portfolio Item CSS */
-
+.thumbnail{
+    width:20px;
+    height:20px;
+}
 
 
 /* Footer CSS */
